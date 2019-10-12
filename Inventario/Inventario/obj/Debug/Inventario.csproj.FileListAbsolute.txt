@@ -1,0 +1,4 @@
+C:\Users\Toshiba\documents\visual studio 2010\Projects\Inventario\Inventario\bin\Inventario.dll
+C:\Users\Toshiba\documents\visual studio 2010\Projects\Inventario\Inventario\bin\Inventario.pdb
+C:\Users\Toshiba\documents\visual studio 2010\Projects\Inventario\Inventario\obj\Debug\Inventario.dll
+C:\Users\Toshiba\documents\visual studio 2010\Projects\Inventario\Inventario\obj\Debug\Inventario.pdb

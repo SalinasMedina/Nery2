@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="21f2372e-4721-4489-9b5c-31bbac5a4ef6" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:12521/inv2.svc?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="inv2.xsd" MetadataType="Schema" ID="f2b9828f-1f14-4ad4-986c-af70c7cf51a5" SourceId="1" SourceUrl="http://localhost:12521/inv2.svc?xsd=xsd1" />
+    <MetadataFile FileName="inv21.xsd" MetadataType="Schema" ID="826638ef-1b2d-4a47-ba68-f76c75441ccf" SourceId="1" SourceUrl="http://localhost:12521/inv2.svc?xsd=xsd2" />
+    <MetadataFile FileName="inv2.wsdl" MetadataType="Wsdl" ID="77ce3f39-413a-4c9f-ae3c-8c518249def7" SourceId="1" SourceUrl="http://localhost:12521/inv2.svc?wsdl" />
+    <MetadataFile FileName="inv22.xsd" MetadataType="Schema" ID="204ef4c2-b6e4-45ba-84f7-22c03dc49f3b" SourceId="1" SourceUrl="http://localhost:12521/inv2.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
